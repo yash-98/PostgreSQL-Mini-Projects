@@ -1,11 +1,4 @@
 -- ===========================================================================
---       title: Raccoon Rhapsody MMORPG DB
--- description: schema creation script w/ data
---      author: Parke Godfrey
---    creation: 4 November 2016
---        last: 4 November 2020 (adapted for PostgreSQL)
-
--- ===========================================================================
 -- SCHEMA DEFINITION
 
 -- ---------------------------------------------------------------------------

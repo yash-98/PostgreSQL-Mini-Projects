@@ -1,9 +1,3 @@
--- ===========================================================================
---       title: Raccoon Rhapsody MMORPG DB (drop)
--- description: schema destroy script
---      author: Parke Godfrey
---    creation: November 2016
-
 -- -------------------------------------------------------------------
 -- Schema definition
 

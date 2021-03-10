@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "test_project",
+            "group": "EECS3421",
+            "database": "test_project",
+            "username": "postgres",
+            "password": ""
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "project2",
+            "database": "test_project",
+            "username": "postgres",
+            "password": ""
+        }
+    ]
+}
